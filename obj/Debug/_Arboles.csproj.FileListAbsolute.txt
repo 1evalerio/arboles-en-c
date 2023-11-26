@@ -1,0 +1,7 @@
+C:\Users\wueyl\source\repos\_Arboles\bin\Debug\_Arboles.exe.config
+C:\Users\wueyl\source\repos\_Arboles\bin\Debug\_Arboles.exe
+C:\Users\wueyl\source\repos\_Arboles\bin\Debug\_Arboles.pdb
+C:\Users\wueyl\source\repos\_Arboles\obj\Debug\_Arboles.csproj.AssemblyReference.cache
+C:\Users\wueyl\source\repos\_Arboles\obj\Debug\_Arboles.csproj.CoreCompileInputs.cache
+C:\Users\wueyl\source\repos\_Arboles\obj\Debug\_Arboles.exe
+C:\Users\wueyl\source\repos\_Arboles\obj\Debug\_Arboles.pdb
